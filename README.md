@@ -7,9 +7,9 @@
 This is an audio player for Vue，It provides two custom styles.
 
 normal: 
-![image](https://github.com/Aimee616/vue-audioplayers/docImg/style-music.jpg)                   
+![image](./docImg/style-normal.jpg)                   
 music: 
-![image](https://github.com/Aimee616/vue-audioplayers/blob/master/docImg/style-music.jpg)
+![image](./docImg/style-music.jpg)
 
 ## Installation
 
