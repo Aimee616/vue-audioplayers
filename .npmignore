@@ -1,0 +1,27 @@
+.DS_Store
+node_modules/
+src/
+build/
+config/
+static/
+docImg/
+.babelrc
+.editorconfig
+.gitignore
+.postcssrc.js
+index.html
+webpack.config.js
+package-lock.json
+
+dist/static/
+dist/index.html
+dist/vue-audioplayer.min.css.map
+dist/vue-audioplayer.min.js.map
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln

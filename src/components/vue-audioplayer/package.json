@@ -1,0 +1,36 @@
+{
+  "name": "vue-audioplayer",
+  "version": "0.0.1",
+  "private": false,
+  "description": "an audio player for vue",
+  "main": "dist/index.js",
+  "author": "Iris Mei<1428925451@qq.com>",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "scripts": {},
+  "keywords": [
+    "audio",
+    "audio-player",
+    "vue-audioplayer",
+    "vue-audio",
+    "audioplayer"
+  ],
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-plugin-transform-runtime": "^6.23.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-stage-2": "^6.24.1",
+    "css-loader": "^0.28.11",
+    "node-sass": "^4.14.1",
+    "sass-loader": "^9.0.3",
+    "style-loader": "^1.2.1",
+    "webpack": "^4.44.1",
+    "vue-loader": "^13.3.0",
+    "vue-style-loader": "^3.0.1",
+    "webpack-cli": "^3.3.12"
+  }
+}
