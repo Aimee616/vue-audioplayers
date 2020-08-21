@@ -2,6 +2,7 @@
 node_modules/
 /dist/
 static/mp3/
+mp3/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
